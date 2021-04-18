@@ -1,0 +1,43 @@
+h1{
+  font-size: 4em;
+   margin-bottom: 0;
+  background-color: #552583;
+}
+h3{
+  text-align:center;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  max-width: 100%;
+}
+#img-div{
+  padding: 10px;
+  margin: 0;
+}
+#img-caption{
+  padding: 5px;
+  text-align: center;
+}
+#headline{
+  text-align: center;
+  
+}
+#tribute-info{
+  background-color: #FDB927;
+  text-align: center;
+}
+#quote{
+  text-align:center;
+  font-family: cursive;
+  font-style: URW Chancery L, cursive;
+  font-size: 1.2em;
+}
+/*adds space between verticle lines */
+ul li { padding: 7px 0px; }
+#end-quote{
+  margin-top: 50px;
+  text-align: center;
+}
